@@ -4,7 +4,7 @@
  *
  * @version 1.0
  * @author	Tom Pugnicki <tom.pugnicki@gmail.com>
- * @github	https://github.com/pugnicki/js/katzespiel
+ * @github	https://github.com/pugnicki/js-katzespiel
  */
 
 /**
