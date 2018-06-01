@@ -4,7 +4,7 @@ Like a lot of cats.
 
 ### Technology used ###
 
-JS, HTML5
+Vanilla JS, HTML5
 
 ### Screenshot ###
 
