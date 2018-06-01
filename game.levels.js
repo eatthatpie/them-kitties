@@ -10,7 +10,7 @@
 Game.levels = [
 	{
 		level: 1,
-		name: 'PRRRR MOTHAFUCKA',
+		name: 'PRRR I WATCH U SLEEP',
 		board: {
 			width: 4,
 			height: 4
@@ -70,7 +70,7 @@ Game.levels = [
 	},
 	{
 		level: 6,
-		name: 'DON\'T PISS ME OFF',
+		name: 'DON\'T P*SS ME OFF',
 		board: {
 			width: 12,
 			height: 12
