@@ -8,7 +8,7 @@ JS, HTML5
 
 ### Screenshot ###
 
-![Screenshot](http://papdest.com/user_content/catgame/mk/screenshot.png)
+![Screenshot](http://pugnicki.github.io/katzespiel/screenshot.png)
 
 ### License ###
 
